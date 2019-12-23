@@ -1,0 +1,32 @@
+body {
+    background-color: #89DBF1;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 20px 40px 20px 40px;
+}
+
+h1 {
+    color: #262DBC;
+}
+h3 {
+    color: #262DBC;
+    font-weight: 700;
+}
+
+ul {
+    color:#262DBC ;
+}
+
+img {
+    border-radius: 8px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #ddd;
+    
+}
+
+h3:nth-of-type(2) {
+    font-family: 'Pacifico', cursive;
+}
+
